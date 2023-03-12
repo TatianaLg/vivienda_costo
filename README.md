@@ -5,5 +5,7 @@ ID 1214746886
 Ingeniería Eléctrica
 Carlos Alberto Bolaños Delgado
 ID 1004134214
+Alejandro Gomez Borja
+1035861899
 Ingeniería Eléctrica
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
