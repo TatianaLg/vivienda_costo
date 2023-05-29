@@ -10,3 +10,4 @@ Alejandro Gomez Borja
 Ingeniería Eléctrica
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 Video entrega 2: https://youtu.be/tFGKNsJ3cpA
+Video entrega final: https://youtu.be/wAboXOPoUQ0
